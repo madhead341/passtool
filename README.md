@@ -6,6 +6,8 @@ inspired by @timverbois' passtool, mine made in python, and with some other func
 tkinter, psutil, base64
 
 ## installing
-pip install tkinter
-pip install psutil
+pip install tkinter,
+
+pip install psutil,
+
 pip install base64
