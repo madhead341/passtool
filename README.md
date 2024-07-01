@@ -8,7 +8,7 @@ A simple GUI application to generate customizable passwords with various options
 - **Password Length:** Choose a length between 6 and 22 characters.
 - **Special Characters:** Option to include special characters in the password.
 - **Capital Letters:** Option to include capital letters in the password.
-- **Battery Percentage:** Option to include the current battery percentage in the password.
+- **Battery Percentage:** Option to include the current battery percentage in the password. (only works on laptops)
 - **Current Time:** Option to include the current time in the password.
 - **Current Date:** Option to include the current date in the password.
 - **Custom String:** Add a custom string to the password.
