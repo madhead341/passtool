@@ -14,7 +14,8 @@ A simple GUI application to generate customizable passwords with various options
 - **Custom String:** Add a custom string to the password.
 - **Replace Vowels:** Option to replace vowels in the custom string with numbers (A -> 4, E -> 3, I -> 1, O -> 0).
 - **Base64 Encoding:** Option to Base64 encode the final password.
-- **Multiple Passwords:** Generate up to 100 passwords at once.
+- **Multiple Passwords:** Generate unlimited passwords at once.
+- **Text File:** If generated passwords are +10, they get saved in 'passwords.txt' inside the root folder.
 
 ## Requirements
 
