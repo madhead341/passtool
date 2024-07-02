@@ -1,5 +1,5 @@
 # passtool
-inspired by @timverbois' passtool, mine made in python, and with some other functions. made for windows 10
+Inspired by @timverbois' passtool, mine made in python, and with some other functions. Made for Windows 10 or MacOs X
 ![image](https://github.com/madhead341/passtool/assets/106779656/7e8d39d6-02ac-45cb-88d3-652dc63f85f2)
 
 
