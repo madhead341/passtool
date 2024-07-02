@@ -1,5 +1,6 @@
 # passtool
 inspired by @timverbois' passtool, mine made in python, and with some other functions. made for windows 10
+![image](https://github.com/madhead341/passtool/assets/106779656/45ccb7b6-fa1b-4562-87d9-3b0f8a48d0cd)
 
 A simple GUI application to generate customizable passwords with various options like special characters, capital letters, custom strings, time, date, battery percentage, and Base64 encoding.
 
